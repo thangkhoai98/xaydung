@@ -8,7 +8,13 @@ Version: 3.0
 
 /*************** ADD CUSTOM CSS HERE.   ***************/
 
+span.color-fdc236 {
+    color:#fdc236;
+}
 
+.row-dashed .col:before, .row-solid .col:before{
+    border: none;
+}
 @media only screen and (max-width: 48em) {
 /*************** ADD MOBILE ONLY CSS HERE  ***************/
 
